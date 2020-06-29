@@ -1,6 +1,10 @@
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-333.svg?style=flat-square&logo=unity)](https://unity.com/)
 
-Hash function implementations by various authors (see below) repackaged as a Unity package.
+Hash function implementations by various authors (see below) repackaged as a Unity package. These are useful for procedural generation and making them available in this repo makes it easy for me to use them in my projects.
+
+I've modified the original code slightly by wrapping it in a `mtti.Hash` namespace for safety.
+
+This repository is unlikely to be updated as I've been using this same unchanged code for years.
 
 ## Authors
 
