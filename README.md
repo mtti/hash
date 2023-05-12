@@ -1,3 +1,9 @@
+**⚠️ Deprecation Warning ⚠️**
+
+The contents of this repo have been merged into [`mtti/unity-utils`](https://github.com/mtti/unity-utils).
+
+<hr><br>
+
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-333.svg?style=flat-square&logo=unity)](https://unity.com/)
 
 Hash function implementations by various authors (see below) repackaged as a Unity package. These are useful for procedural generation and making them available in this repo makes it easy for me to use them in my projects.
